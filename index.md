@@ -6,6 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+!["test"](/Resources/testimage1.png)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -17,8 +19,6 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-!["test"](/Resources/testimage1.png)
-
 
 1. Numbered
 2. List
