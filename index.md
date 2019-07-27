@@ -17,6 +17,8 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+!["test"](/Resources/testimage1.png)
+
 
 1. Numbered
 2. List
